@@ -1,5 +1,5 @@
 ## What is this mod?
-I Know What I'm Doing is a very simple mod that gets rid of the ennoying prompt when making a world with experimental settings.
+I Know What I'm Doing is a very simple mod that gets rid of the annoying prompt when making a world with experimental settings.
 
 ## Dependencies
 Fabric API, probably.
